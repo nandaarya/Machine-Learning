@@ -1,3 +1,3 @@
 # Machine-Learning
 
-My first ML project
+ML model for submission dicoding course
